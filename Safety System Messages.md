@@ -1,5 +1,5 @@
 #Safety system messages
-Author: Ioana Tanase, Isobel McCrum. Nhu Do and published on aka.ms/AISafetyMessages
+Authors: Ioana Tanase, Isobel McCrum. Nhu Do and published on aka.ms/AISafetyMessages
 Note - System message is used interchangeably with "metaprompt," and "system prompt." Here, we use "system message" to align with industry taxonomy and standards.
 Additionally, we use the term "component" - a component is a distinct part that contributes to the overall structure and function of the system message. Examples include instructions, context, tone, safety guidelines, and tools.
 
