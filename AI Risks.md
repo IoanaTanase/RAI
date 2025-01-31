@@ -1,4 +1,4 @@
-#Risks applicable to generative AI 
+# Risks applicable to generative AI 
 
   Harmful code: AI-generated code that contains vulnerabilities or malicious elements that could be exploited.
   
