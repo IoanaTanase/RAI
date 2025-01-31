@@ -10,7 +10,7 @@
   
   **Prompt injection attacks**: Malicious inputs that can manipulate AI to produce harmful or misleading outputs.
   
-  **Ungrounded outputs and errors (hallucinations)**: Incorrect or nonsensical information, leading to confusion.
+  **Ungrounded content (hallucinations)**: Incorrect or nonsensical information, leading to confusion.
   
   **IP infringement**: Content that violates intellectual property laws.
   
