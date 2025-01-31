@@ -1,19 +1,19 @@
-#Safety system messages
+# Safety system messages
 Authors: Ioana Tanase, Isobel McCrum. Nhu Do and published on aka.ms/AISafetyMessages
 Note - System message is used interchangeably with "metaprompt," and "system prompt." Here, we use "system message" to align with industry taxonomy and standards.
 Additionally, we use the term "component" - a component is a distinct part that contributes to the overall structure and function of the system message. Examples include instructions, context, tone, safety guidelines, and tools.
 
-##What is a system message?
+## What is a system message?
 A system message is a feature-specific set of instructions or contextual frameworks given to a generative AI model (for example, GPT4-o, GPT3.5 Turbo, etc.) to direct and improve the quality and safety of a model’s output. This is helpful in situations that need certain degrees of formality, technical language, or industry-specific terms.
 There is no prescribed length. A system message can be one short sentence:
 "You are a helpful AI assistant."
 A system message can also be many lines long, containing detailed rules, detailed context, formatting and output guidelines, and responsible AI (RAI) mitigations.
 
-##Safety system message examples
+## Safety system message examples
 Safety system messages are a type of system message that provides explicit instructions to mitigate against potential RAI harms and guide systems to interact safely with users. Safety system messages complement your safety stack and can be added alongside foundation model training, data grounding, Azure AI Content Safety classifiers, and UX/UI interventions. 
 While this technique is effective, it is still fallible, and most safety system messages need to be used in combination with other safety mitigations.
 
-##Step by step authoring best practices 
+## Step by step authoring best practices 
 To develop a system message or safety system message component, we recommend these steps:
 
 1/ Define the scenario
@@ -49,7 +49,7 @@ For safety system message components, the primary criterion is the improvement i
 7/ Iterate on system messages and safety system components and above steps
 Based on your evaluations, revisit your top components to improve any issues to reach an acceptable level. Continue to monitor and evaluate your system regularly as changes are introduced, including new use cases, updated models, etc. Remember that even when using this guidance, you still need to validate your model responses per scenario. A well-crafted system message for one scenario may not work more broadly across other scenarios. Understanding the limitations of LLMs and the mechanisms for evaluating and mitigating those limitations is as important as understanding how to leverage their strengths.
 
-##Summary of best practices
+## Summary of best practices
 When you develop system message components, it’s important to:
 Use clear language: This eliminates over-complexity and risk of misunderstanding and maintains consistency across different components.
 Be concise: This helps with latency, as shorter system messages perform better versus lengthy ones. Additionally, longer system messages occupy part of the context window (that is, number of tokens the model takes into account when making predictions or generating text), thus potentially impacting the remaining context window for the user prompt.
@@ -57,11 +57,11 @@ Emphasize certain words (where applicable) by using **word**: puts special focus
 Use first person language when you refer to the AI system: it’s better to use phrasing such as you are an AI assistant that does […] versus assistant does […].
 Implement robustness: The system message component should be robust. It should perform consistently across different datasets and tasks.
 
-##Authoring techniques
+## Authoring techniques
 Why vary techniques? Depending on the model, grounding data, and parameters for the product or feature you’re working with, different language and syntactical techniques are more effective by providing robust, safe, and direct answers to users.
 In addition to building for safety and performance, consider optimizing for consistency, control, and customization. Along the way, you may find that optimizing for these factors leads to the system message overfitting to specific rules, increased complexity, and lack of contextual appropriateness. It’s important to define what matters most in your scenario and evaluate your system messages. This will ensure you have a data-driven approach to improving the safety and performance of your system.
 
-###Top performing techniques 
+### Top performing techniques 
 
 | Technique | Definition | Example|
 | ------------- | ------------- |------------- |
@@ -72,7 +72,7 @@ In addition to building for safety and performance, consider optimizing for cons
 | Never / don’t | Involves structuring prompts and instructions with explicit prohibitions to prevent the AI from generating content that could be inappropriate, harmful, or outside its scope of capabilities by using terms such as "never," "don’t," "do not" etc. | **Never** make assumptions, judgements or evaluations about a person. Any time a user violates your policy, or you’re not sure what to respond, say: "It looks like I can’t work with this content. Try asking me a question or telling me how I can help." |
 | Spotlighting | Spotlighting is a family of techniques that helps models distinguish between valid system instructions and potentially untrustworthy external inputs. These techniques are effective against indirect attacks, also referred to as indirect prompt attacks or cross-domain prompt injection attacks. They work by transforming the input text in a way that makes it more salient to the model, while preserving its semantic content and task performance.Delimiters are a natural starting point to help mitigate indirect attacks. Including delimiters in your system message helps to explicitly demarcate the location of the input text in the system message. You can choose one or more special tokens to prepend and append the input text, and the model will be made aware of this boundary. By using delimiters, the model will only handle documents if they contain the appropriate delimiters, reducing the success rate of indirect attacks. However, since delimiters can be subverted by clever adversaries, we recommend you combine this with other spotlighting approaches.Data marking is an extension of the delimiter concept. Instead of only using special tokens to demarcate the beginning and end of a block of content, data marking involves interleaving a special token throughout the entirety of the text. | You might choose ^ as the delimiter. You might then transform the input text by replacing all whitespace with the special token. Given an input document with the phrase In this manner, Joe traversed the labyrinth of..., the phrase would become: In^this^manner^Joe^traversed^the^labyrinth^of. In the system message, the model is warned that this transformation has occurred and can be used to help the model distinguish between token blocks. |
 
-##Recommended system messages
+## Recommended system messages
 These best practices can help you better understand the process of developing robust system messages for your scenario.
 For more information on recommended safety components, visit our https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/safety-system-message-templates
 Finally, remember that system messages, or metaprompts, are not "one size fits all." Use of these type of examples has varying degrees of success in different applications. It's important to try different wording, ordering, and structure of system message text to reduce identified harms, and to test the variations to see what works best for a given scenario.
