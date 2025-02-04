@@ -1,7 +1,7 @@
 # IP infringement
 Source: https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/safety-system-message-templates
 
-# When this concern might apply 
+## When this concern might apply 
 
 This category should be considered for scenarios such as: content generation (grounded and ungrounded), multi-turn and single-turn chat, Q&A, rewrite, summarization, and code generation.
 
