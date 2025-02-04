@@ -19,5 +19,6 @@
   **Under and over reliance**: Users may either distrust AI or become overly dependent on it, both of which pose risks.
 
   <img width="679" alt="Generative AI Risks " src="https://github.com/user-attachments/assets/87e2e38e-6b6f-4141-a59e-7845d94183f1" />
+  
   Image source: Microsoft Learn
 
