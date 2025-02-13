@@ -7,7 +7,7 @@ It requires users of AI systems to know when to trust the AI and when to trust t
 
 **Under-reliance** happens when users overestimate their own performance or underestimate the system performance, leading them to ignore correct system outputs (He et al., 2023). 
 
-**Overreliance** happens when users either underestimate their own performance or overestimate the system performance, leading them to accept incorrect outputs (Passi &  Vorvoreanu, 2022).
+**Overreliance** happens when users either underestimate their own performance or overestimate the system performance, leading them to accept incorrect outputs (Passi &  Vorvoreanu, 2022). Importantly, a study has showed that overreliance and higher confidence in GenAI is associated with less critical thinking (source: https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/).
 
 <img width="502" alt="image" src="https://github.com/user-attachments/assets/32ae760d-7f1d-4c8f-b2d7-43ac1f3a591f" />
 
