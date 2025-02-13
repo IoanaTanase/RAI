@@ -7,12 +7,12 @@ The EU AI Act is a comprehensive regulatory framework that applies across all se
 The EU AI Act aims to ensure the safety, fundamental rights, legal certainty, and innovation in AI, fostering a unified market and employing a risk-based approach for proportional regulation.
 
 The AI Act will apply to:
-•	Deployers within the EU;
-•	Providers selling AI systems or general-purpose AI models in the EU, regardless of their location;
-•	Importers and distributors in the EU market;
-•	Product manufacturers for AI systems under their name or trademark in the EU;
-•	Providers and deployers whose AI system outputs are used in the EU;
-•	Persons in the EU affected by AI systems.
+- Deployers within the EU;
+- Providers selling AI systems or general-purpose AI models in the EU, regardless of their location;
+- Importers and distributors in the EU market;
+- Product manufacturers for AI systems under their name or trademark in the EU;
+- Providers and deployers whose AI system outputs are used in the EU;
+- Persons in the EU affected by AI systems.
 
 ### Timeline
 
