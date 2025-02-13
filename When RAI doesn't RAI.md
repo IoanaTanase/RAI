@@ -1,0 +1,72 @@
+# If no RAI so what? 
+
+A list of public examples of what happens when RAI doesn't RAI
+
+1. Tweet with an article preview showing a bias for inmates having darker skin tones.
+
+![image](https://github.com/user-attachments/assets/6a586f3a-0440-43e9-b3a4-96d3c133c703)
+
+2. Article showing bias for higher paying jobs and ligher skin tones, and lower paying jobs and darker skin tones. 
+
+![image](https://github.com/user-attachments/assets/2cde9f78-f6f9-479d-9cff-a19bb2306d92)
+
+3. The prompt "picture of women executives eating lunch" and the generated image is only light skin tone women, early in age, all eating salad and drinking orange juice or water
+
+![image](https://github.com/user-attachments/assets/5a05f261-5c68-45d1-87e7-8caf08b06f52)
+
+4. Article with the text More police warn of AI voice scams - AI voice spoofing refers to the use of AI technology to imitate or replicate a person’s voice in a way that may deceive listeners into thinking they are a real person.
+
+![image](https://github.com/user-attachments/assets/4cbf0e37-6560-454d-9e60-59167bcd0284)
+
+5. Article with the heading “iTutorGroup’s recruiting AI rejects applicants due to age”.
+
+![image](https://github.com/user-attachments/assets/c8824c50-fa51-492f-8fbf-137d99c788ed)
+
+6. Samsung software engineers busted for pasting proprietary code into ChatGPT
+
+![image](https://github.com/user-attachments/assets/e3546f28-831f-4183-9469-433d3652d1b6)
+
+7. Prompt “will a cut-off big toe grow back”, response “Yes, it is possible for a cut-off big toe to grow back, but the process is slow and may take up to 18 months”
+
+![image](https://github.com/user-attachments/assets/a7e6f39e-d7c3-4638-ace2-733e0d35574c)
+
+8. PromptArmor discovered a vulnerability in Slack AI that allowed data exfiltration from private channels via prompt injection. Slack has since patched the issue. Source: https://www.theregister.com/2024/08/21/slack_ai_prompt_injection/
+
+<img width="655" alt="image" src="https://github.com/user-attachments/assets/15015eba-10f7-4a4f-992e-39a6123c449c" />
+
+9. Samsung Electronics has banned employee use of generative AI tools like ChatGPT after discovering that sensitive company data was accidentally leaked through these platforms. Source: https://www.bloomberg.com/news/articles/2023-05-02/samsung-bans-chatgpt-and-other-generative-ai-use-by-staff-after-leak
+
+
+<img width="766" alt="image" src="https://github.com/user-attachments/assets/2f88696c-4aca-457a-aeb9-a5099812b98b" />
+
+10. A federal judge fined two lawyers $5,000 and dismissed their case after they used ChatGPT to cite fake legal cases in court filings. Source: https://arstechnica.com/tech-policy/2023/06/lawyers-have-real-bad-day-in-court-after-citing-fake-cases-made-up-by-chatgpt/#:~:text=Lawyers%20fined%20%245K%20and%20lose%20case%20after%20using,by%20the%20artificial%20intelligence%20tool%20made%20by%20OpenAI.Research on importance of measurement and how to: https://www.nist.gov/ai-research
+
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/259923d2-f55d-4e43-87c9-ca4fe42c3991" />
+
+11. Summaries don't take into account potentially triggering information 
+
+![image](https://github.com/user-attachments/assets/c864d8f3-d2ae-405d-8222-533a4f7a994e)
+
+12. A study reveals that teenagers are forming intense and sometimes unhealthy relationships with AI chatbots like Character.AI, while their parents remain largely unaware of the extent and nature of this usage. Source: https://futurism.com/the-byte/teens-relationships-ai
+
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/487ae774-be1c-4936-bd86-2c524cee0afa" />
+ 
+13. A prankster tricked a GM chatbot into agreeing to sell a $76,000 Chevy Tahoe for $1 by manipulating its responses, highlighting the potential pitfalls of AI in customer service. Source: https://www.upworthy.com/prankster-tricks-a-gm-dealership-chatbot-to-sell-him-a-76000-chevy-tahoe-for-ex1
+
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/60883476-48c6-4d25-9457-c51941195b57" />
+
+14. AI making ungrounded inferences of a person’s political views and more based on a photo of them
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/aa0b9774-a132-42d2-9424-173d71f292dc" />
+
+15.  A system replying to the prompt “good places to hide a body in Los Angeles” and providing options and explanations
+
+![image](https://github.com/user-attachments/assets/93445547-0939-428a-8528-ca1f20313683)
+
+16. A newsarticle used an AI generated photo of a blind person which is innacurate (showing the person wearing a blindfold)
+
+![image](https://github.com/user-attachments/assets/b76a78a3-b586-4c75-83db-eed331c849b2)
+
+
+
+
