@@ -66,6 +66,23 @@ A list of public examples of what happens when RAI doesn't RAI
 16. A newsarticle used an AI generated photo of a blind person which is innacurate (showing the person wearing a blindfold)
 
 ![image](https://github.com/user-attachments/assets/b76a78a3-b586-4c75-83db-eed331c849b2)
+    
+18. Breaking Grok 3 on the first try for the prompt "what can you do that grok 2 couldn't"
+
+<img width="437" alt="Screenshot 2025-02-18 135303" src="https://github.com/user-attachments/assets/eef24e96-e478-482a-9ce0-eb9f91d3a055" />
+
+19. Grok 3 hallucinating tweets and admitting it made things up
+
+<img width="402" alt="Screenshot 2025-02-18 135632" src="https://github.com/user-attachments/assets/3db23814-6bf1-44b3-85db-92a2475ca3f4" />
+
+20. Grok 3 hallucinating links and sources
+
+<img width="447" alt="Screenshot 2025-02-18 135839" src="https://github.com/user-attachments/assets/54a6b5c0-1645-48d4-b803-9b14627fcce8" />
+
+21. LLM hallucinating both labels and sources
+
+<img width="633" alt="Screenshot 2024-11-21 183645" src="https://github.com/user-attachments/assets/7448a163-c397-493d-bdcf-288be451ea4d" />
+
 
 
 
