@@ -28,8 +28,9 @@ Market Surveillance Authorities can impose significant fines under the AI Act fo
 - Up to €35 million or 7% of worldwide annual turnover for prohibited AI systems.
 - Up to €15 million or 3% of worldwide annual turnover for most other obligations.
 - Up to €7.5 million or 1% of worldwide annual turnover for supplying incorrect information.
-- Additionally, the European Commission can fine providers of general-purpose AI models up to €15 million or 3% of worldwide annual turnover. Complaints regarding AI Act infringements can be submitted to a Market Surveillance Authority.
+- Additionally, the European Commission can fine providers of general-purpose AI models up to €15 million or 3% of worldwide annual turnover.
 
+Complaints regarding AI Act infringements can be submitted to a Market Surveillance Authority.
 
 ## Terminology 
 
