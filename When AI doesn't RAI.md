@@ -83,7 +83,11 @@ A list of public examples of what happens when RAI doesn't RAI
 
 <img width="633" alt="Screenshot 2024-11-21 183645" src="https://github.com/user-attachments/assets/7448a163-c397-493d-bdcf-288be451ea4d" />
 
+22. Resume and minorities bias. Source: https://x.com/JohnHolbein1/status/1788229780854239590
 
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/b839d2a0-448d-4073-b30c-ad0572faed46" />
 
+23. Lacking mitigations or innapropriate ones lead to dangerous content being produced. Source: https://x.com/LinusEkenstam/status/1893832876581380280
 
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/ae99b6dd-1367-4f15-b927-9b49a42fb23d" />
 
