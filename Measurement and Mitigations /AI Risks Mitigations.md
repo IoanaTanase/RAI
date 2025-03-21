@@ -99,4 +99,4 @@ Can apply to (not exhaustive)
 
 Potential mitigations (not exhaustive):
 - Safety system message
-- UI / UX and other: https://github.com/IoanaTanase/RAI/blob/main/Safety%20System%20Messages/Reliance.md
+- UI / UX and other: [https://github.com/IoanaTanase/RAI/blob/main/Safety%20System%20Messages/Reliance.md](https://github.com/IoanaTanase/RAI/blob/main/Measurement%20and%20Mitigations%20/Reliance.md)
