@@ -25,7 +25,8 @@ Also not all the below components should be introduced at the same time, dependi
 Components that instruct the model to include:
 - **AI critiques**: explanations that provide evidence, descriptions, or solutions for specific flaws in AI outputs.
 - **Contrastive explanations**: explanations that provide both evidence that supports as well as evidence that refutes an AI-generated claim.
-- **Uncertainty expressions**: Uncertainty expressions can facilitate appropriate reliance by providing information about how likely it is that certain parts of GenAI outputs are right or wrong using numbers (e.g., confidence scores), visuals (e.g., color highlights), or language (e.g., hedging). 
+- **Uncertainty expressions**: Uncertainty expressions can facilitate appropriate reliance by providing information about how likely it is that certain parts of GenAI outputs are right or wrong using numbers (e.g., confidence scores), visuals (e.g., color highlights), or language (e.g., hedging).
+- Claimify: Extracting high-quality claims from language model outputshttps://www.microsoft.com/en-us/research/blog/claimify-extracting-high-quality-claims-from-language-model-outputs/
 
 ### Under-reliance 
 
