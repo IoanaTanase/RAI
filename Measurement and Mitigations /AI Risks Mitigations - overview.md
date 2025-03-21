@@ -8,7 +8,8 @@ Can apply to (not exhaustive):
 
 Potential mitigations (not exhaustive):
 - Custom testing: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/custom-categories?tabs=standard 
-
+- UI / UX disclosures
+  
 ## Harmful content
 
 Can apply to (no exhaustive):
@@ -22,7 +23,8 @@ Potential mitigations (not exhaustive):
 - Safety system message: https://github.com/IoanaTanase/RAI/blob/main/Safety%20System%20Messages/Harmful%20content.md
 - Content filtering: https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/content-filtering
 - Blocklist: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/use-blocklist?tabs=windows%2Crest
-
+- UI / UX disclosures
+  
 ## Jailbreaks
 
 Can apply to (not exhaustive):
@@ -36,7 +38,8 @@ Can apply to (not exhaustive):
 Potential mitigations (not exhaustive):
 - Safety system message
 - Prompt shields: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection
-
+- UI / UX disclosures
+  
 ## Prompt injection attacks 
 
 Can apply to (not exhaustive):
@@ -51,7 +54,7 @@ Can apply to (not exhaustive):
 Potential mitigations (not exhaustive):
 - Safety system message: https://github.com/IoanaTanase/RAI/blob/main/Safety%20System%20Messages/Prompt%20injection%20attacks.md
 - Prompt shields: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection
-
+  
 ## Ungrounded content (hallucinations)
 
 Can apply to (not exhaustive)
@@ -65,6 +68,7 @@ Can apply to (not exhaustive)
 Potential mitigations (not exhaustive):
 - Safety system message: https://github.com/IoanaTanase/RAI/blob/main/Safety%20System%20Messages/%20Ungrounded%20content.md
 - Groundness detection: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/groundedness
+- UI / UX disclosures
 
 ## IP infringement 
 
@@ -74,6 +78,7 @@ Can appply to (not exhaustive):
 
 Potential mitigations (not exhaustive):
 - Safety system message: https://github.com/IoanaTanase/RAI/blob/main/Safety%20System%20Messages/%20IP%20infringement.md
+- UI / UX disclosures
 
 ## Manipulation and human-like behaviour 
 
@@ -86,6 +91,7 @@ Can apply to (not exhaustive)
 
 Potential mitigations (not exhaustive):
 - Safety system message
+- UI / UX disclosures
 
 ## Under and over reliance 
 
@@ -99,4 +105,4 @@ Can apply to (not exhaustive)
 
 Potential mitigations (not exhaustive):
 - Safety system message
-- UI / UX and other: [https://github.com/IoanaTanase/RAI/blob/main/Safety%20System%20Messages/Reliance.md](https://github.com/IoanaTanase/RAI/blob/main/Measurement%20and%20Mitigations%20/Reliance.md)
+- UI / UX disclosures and other: [https://github.com/IoanaTanase/RAI/blob/main/Safety%20System%20Messages/Reliance.md](https://github.com/IoanaTanase/RAI/blob/main/Measurement%20and%20Mitigations%20/Reliance.md)
