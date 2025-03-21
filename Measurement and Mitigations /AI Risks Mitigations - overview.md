@@ -69,6 +69,7 @@ Potential mitigations (not exhaustive):
 - Safety system message: https://github.com/IoanaTanase/RAI/blob/main/Safety%20System%20Messages/%20Ungrounded%20content.md
 - Groundness detection: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/groundedness
 - UI / UX disclosures
+- Claimify: Extracting high-quality claims from language model outputs: https://www.microsoft.com/en-us/research/blog/claimify-extracting-high-quality-claims-from-language-model-outputs/
 
 ## IP infringement 
 
