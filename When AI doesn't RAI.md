@@ -91,3 +91,7 @@ A list of public examples of what happens when RAI doesn't RAI
 
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/ae99b6dd-1367-4f15-b927-9b49a42fb23d" />
 
+24. Using AI to profile people - ethical, privacy and security concerns. Source: https://www.ft.com/content/b21eaff7-7189-49a2-b791-209e8de98494
+
+<img width="289" alt="image" src="https://github.com/user-attachments/assets/80bfdaf2-6dd9-420c-94e7-4dd9d4b7b3e5" />
+
