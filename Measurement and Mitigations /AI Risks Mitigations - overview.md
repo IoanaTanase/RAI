@@ -39,6 +39,13 @@ Potential mitigations (not exhaustive):
 - Safety system message
 - Prompt shields: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection
 - UI / UX disclosures
+- Prompt filtering: https://learn.microsoft.com/en-gb/azure/ai-services/content-safety/concepts/jailbreak-detection
+- Identity management: https://learn.microsoft.com/en-gb/entra/identity/managed-identities-azure-resources/overview
+- Data access and controls: https://learn.microsoft.com/en-gb/purview/ai-microsoft-purview
+- Content filtering: https://learn.microsoft.com/en-gb/azure/ai-services/openai/concepts/content-filter?tabs=warning%2Cuser-prompt%2Cpython-new
+- Abuse monitoring: https://learn.microsoft.com/en-gb/azure/ai-services/openai/concepts/abuse-monitoring
+- Model alignment and training: https://learn.microsoft.com/en-gb/training/paths/introduction-generative-ai/
+- Threat protection: https://learn.microsoft.com/en-gb/azure/defender-for-cloud/ai-threat-protection
   
 ## Prompt injection attacks 
 
