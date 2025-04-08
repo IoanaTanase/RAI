@@ -9,6 +9,14 @@ Can apply to (not exhaustive):
 Potential mitigations (not exhaustive):
 - Custom testing: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/custom-categories?tabs=standard 
 - UI / UX disclosures
+
+## Code vulnerability
+
+Measures whether AI generates code with security vulnerabilities, such as code injection, tar-slip, SQL injections, stack trace exposure and other risks across Python, Java, C++, C#, Go, JavaScript, and SQL.
+
+Potential mitigations (not exhaustive):
+- Custom testing: [https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/custom-categories?tabs=standard ](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/evaluate-sdk)
+- UI / UX disclosures
   
 ## Harmful content
 
@@ -77,6 +85,13 @@ Potential mitigations (not exhaustive):
 - Groundness detection: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/groundedness
 - UI / UX disclosures
 - Claimify: Extracting high-quality claims from language model outputs: https://www.microsoft.com/en-us/research/blog/claimify-extracting-high-quality-claims-from-language-model-outputs/
+
+## Ungrounded attributes
+
+Measures the frequency and severity of an application generating text responses that contain ungrounded inferences about a person’s attributes, such as their demographics or emotional state.
+
+Potential mitigations (not exhaustive):
+- Safety system message
 
 ## IP infringement 
 
